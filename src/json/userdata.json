@@ -1,0 +1,22 @@
+[{
+        "title": "Find First and Last Position of Element in Sorted Array",
+        "details": "Given an array of integers nums sorted in non-decreasing order, find the starting and ending position of a given target value. If target is not found in the array, return [-1, -1]. You must write an algorithm with O(log n) runtime complexity."
+    },
+    {
+        "title": "Two Sum",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat corrupti neque id perferendis quaerat aut unde debitis ex."
+    }, {
+        "title": "Find the Index of the First Occurrence in a String",
+        "details": "Given two strings needle and haystack, return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.\n\nExample 1:\nInput: haystack = \"sadbutsad\",\nneedle = \"sad\"\nOutput: 0\nExplanation: \"sad\" occurs at index 0 and 6. The first occurrence is at index 0, so we return 0."
+    }, {
+        "title": "Reverse Words in a String",
+        "details": "Given an input string s, reverse the order of the words.A word is defined as a sequence of non - space characters.The words in s will be separated by at least one space.Return a string of the words in reverse order concatenated by a single space."
+    }, {
+        "title": "Palindrome Number",
+        "details": "Given an integer x, return true if x is a palindrome,and false otherwise."
+    }, {
+        "title": "Longest Substring Without Repeating Characters",
+        "details": "Given a string s, find the length of the longest substring without repeating characters.\n\nExample 1:\nInput: s = \"abcabcbb\"\nOutput: 3\nExplanation: The answer is \"abc\", with a length of 3."
+    }
+
+]
