@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/LeetCodeApplication/static/css/main.e6c13ad2.css",
+    "main.js": "/LeetCodeApplication/static/js/main.8d89f471.js",
+    "static/js/787.2f9920f9.chunk.js": "/LeetCodeApplication/static/js/787.2f9920f9.chunk.js",
+    "static/media/_5459e381-01d9-4b36-9a65-c7f5aa7c9b55.jpeg": "/LeetCodeApplication/static/media/_5459e381-01d9-4b36-9a65-c7f5aa7c9b55.1ca1e1881b343632d8ed.jpeg",
+    "index.html": "/LeetCodeApplication/index.html",
+    "main.e6c13ad2.css.map": "/LeetCodeApplication/static/css/main.e6c13ad2.css.map",
+    "main.8d89f471.js.map": "/LeetCodeApplication/static/js/main.8d89f471.js.map",
+    "787.2f9920f9.chunk.js.map": "/LeetCodeApplication/static/js/787.2f9920f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8d89f471.js"
+  ]
+}
